@@ -1,0 +1,4 @@
+git config --global user.name "AaronZhu94"
+git config --global user.email "zhuyalun0717@163.com"
+
+git clone https://github.com/AaronZhu94/Iteach.git
